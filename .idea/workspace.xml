@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b79c3e6-2e79-4454-a732-3073c1c98664" name="Changes" comment="Criação projeto desadio DIO">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/BootCamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Amor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Juliete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2i7LC2NqTIniV8f3REigXjHFkeA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,16 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Juliete.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/desafio-POO-DIO/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Juliete.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/desafio-POO-DIO/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +74,79 @@
       <option name="project" value="LOCAL" />
       <updated>1718836951721</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criação projeto desadio DIO">
+      <option name="closed" value="true" />
+      <created>1718838421044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838421044</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Criação projeto desadio DIO">
+      <option name="closed" value="true" />
+      <created>1718838433960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838433960</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Criação projeto desadio DIO">
+      <option name="closed" value="true" />
+      <created>1718838500524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838500524</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Criação projeto desadio DIO">
+      <option name="closed" value="true" />
+      <created>1718838510521</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838510521</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Criação projeto desadio DIO">
+      <option name="closed" value="true" />
+      <created>1718838543146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838543146</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Criação projeto desadio DIO">
+      <option name="closed" value="true" />
+      <created>1718838665090</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838665090</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Criação projeto desadio DIO">
+      <option name="closed" value="true" />
+      <created>1718838680947</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838680947</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Criação projeto desadio DIO">
+      <option name="closed" value="true" />
+      <created>1718838755647</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838755647</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Criação projeto desadio DIO">
+      <option name="closed" value="true" />
+      <created>1718838773273</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838773273</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +163,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação projeto desadio DIO" />
     <option name="LAST_COMMIT_MESSAGE" value="Criação projeto desadio DIO" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
